@@ -28,6 +28,13 @@ Day 2:
 
 This course will assume an understanding of statistics and calculus at the undergraduate level and programming experience with Python to get full benefits from the class.
 
+Make sure to complete the follow pre-class checklist:
+- Create a Google Account if you don't have one.
+- If you are not familar with Google Colab, complete these tasks:
+  - Go over the [basic tutorial](https://colab.research.google.com/). You can press Cancel when prompted to open a file.
+  - Follow the links in the tutorial for: Overview of Collaboratory, Guide to Markdown, Importing libraries and installing dependencies.
+  - You are welcome to follow the rest of the links but they are not required.
+
 ## Resources
 
 - [Exercises](Exercises)
