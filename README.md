@@ -28,4 +28,7 @@ Day 2:
 
 This course will assume an understanding of statistics and calculus at the undergraduate level and programming experience with Python to get full benefits from the class.
 
-[testlink](Exercises)
+## Resources
+
+- [Exercises](Exercises)
+- [Slides](Slides)
