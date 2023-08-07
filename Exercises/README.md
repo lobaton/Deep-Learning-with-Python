@@ -10,7 +10,7 @@ List of exercises for this course:
 
 4. [Image Classification using Transfer Learning](https://drive.google.com/open?id=13_Lf9SiCy847xQC45Y0I-RBGe3Po78V_&usp=drive_fs)
 
-5. [Anomaly Detection in Biosignals using Autoencoders](https://drive.google.com/open?id=13aY7xeA6wQuhykqDq-X4X-pCskKMUmQt&usp=drive_fs)
+5. [Denoising and Anomaly Detection using Autoencoders](https://drive.google.com/open?id=13aY7xeA6wQuhykqDq-X4X-pCskKMUmQt&usp=drive_fs)
 
 6. [Image Generation using GAN](https://drive.google.com/open?id=13iI1LNvXW7iWxgBdA719V_1rHJsRwONm&usp=drive_fs)
 
