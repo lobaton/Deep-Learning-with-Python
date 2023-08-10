@@ -39,3 +39,6 @@ Make sure to complete the follow pre-class checklist:
 
 - [Exercises](Exercises)
 - [Slides](Slides)
+
+- [Regularization in Keras](https://johnthas.medium.com/regularization-in-tensorflow-using-keras-api-48aba746ae21)
+- [Top Performances in CIFAR-10](https://paperswithcode.com/sota/image-classification-on-cifar-10)
