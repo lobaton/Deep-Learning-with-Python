@@ -31,8 +31,7 @@ This course will assume an understanding of statistics and calculus at the under
 Make sure to complete the follow pre-class checklist:
 - Create a Google Account if you don't have one.
 - If you are not familar with Google Colab, complete these tasks:
-  - Go over the [basic tutorial](https://colab.research.google.com/). You can press Cancel when prompted to open a file. You can skip the Gemini API tools at this point.
-  - Follow the links in the tutorial for: Overview of Collaboratory, Guide to Markdown, Importing libraries and installing dependencies. These are just illustration of how to perform some basic tasks in Colab.
+  - Go over this [basic tutorial](https://www.tutorialspoint.com/google_colab/index.htm). Some of the interface has changed since the tutorial was created but it should still be easy to follow.
   - You are welcome to follow the rest of the links but they are not required.
 - Go over the content of this [interactive Colab notebook](https://colab.research.google.com/github/NVDLI/notebooks/blob/master/building-a-brain/BuildingABrain.ipynb) from the NVIDIA Deep Learning Institute introducing some basic concepts.
 
