@@ -3,7 +3,7 @@
 
 ## Course Summary
 
-In the past few years, deep learning (DL) has emerged as a powerful machine learning method that has found applications in areas such as object recognition, image classification, video analysis, and natural language processing. This course will discuss where and how deep learning is used and how to get people to use it. The approach will be to minimize the math and concentrate instead on the underlying ideas and principles. We will concentrate on Tensorflow/Keras as the underlying computational platforms and use Python to create the DL codes. Much of the course will be driven by a number of hands-on exercises that will help you build simple networks in Keras/Tensorflow. These exercises will cover analysis of tabular data, images, videos, and text. At the end of the course you will have a basic understanding of DL, Tensorflow/Keras as a DL platform, and example applications. 
+In the past few years, deep learning (DL) has emerged as a powerful AI method that has found applications in areas such as object recognition, image segmentation, video analysis, and natural language processing. This course will discuss where and how deep learning is used and how to get people to use it. The approach will minimize the math and concentrate instead on the underlying ideas and principles. We will concentrate on Tensorflow/Keras as the underlying computational platforms and use Python to create the DL codes. Much of the course will be driven by a number of hands-on exercises that will help you build simple networks in Keras/Tensorflow. These exercises will cover analysis of tabular data, images, videos, and text. At the end of the course you will have a basic understanding of DL, Tensorflow/Keras as a DL platform, and example applications. 
 
 ## Why Take This Course?
 
@@ -19,10 +19,10 @@ Day 1:
 - Recurrent Neural Networks (RNNs)
 
 Day 2:
-- Transfer Learning
 - Autoencoders (AEs)
-- Generative Adversarial Networks (GANs)
+- Transfer Learning
 - Transformers
+- Diffusion Models
 
 ## Prerequisites and Requirements
 
@@ -34,7 +34,8 @@ Make sure to complete the follow pre-class checklist:
   - Go over the [basic tutorial](https://colab.research.google.com/). You can press Cancel when prompted to open a file.
   - Follow the links in the tutorial for: Overview of Collaboratory, Guide to Markdown, Importing libraries and installing dependencies.
   - You are welcome to follow the rest of the links but they are not required.
-- Go over the content of this [interactive Colab notebook](https://colab.research.google.com/github/NVDLI/notebooks/blob/master/building-a-brain/BuildingABrian.ipynb) from the NVIDIA Deep Learning Institute introducing some basic concepts. 
+- Go over the content of this [interactive Colab notebook](https://colab.research.google.com/github/NVDLI/notebooks/blob/master/building-a-brain/BuildingABrain.ipynb) from the NVIDIA Deep Learning Institute introducing some basic concepts.
+
 ## Resources
 
 - [Exercises](Exercises)
