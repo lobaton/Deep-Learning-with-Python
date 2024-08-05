@@ -10,4 +10,4 @@ List of exercises for this course:
 6. [Image Classification - Transfer Learning](https://drive.google.com/file/d/1-ZPa6CVNj6ThQt9mRGcTr-QTeX23mGFs/view?usp=sharing)
 7. [Conditional Image Generation - GAN](https://drive.google.com/file/d/13iI1LNvXW7iWxgBdA719V_1rHJsRwONm/view?usp=sharing)
 8. [Text Classification - Transformer](https://drive.google.com/file/d/1okhj3lpjzomKQy7Jm2WdEXIr986isKXM/view?usp=sharing)
-9. [Image Generation - Diffusion]
+9. [Image Generation - Diffusion](https://drive.google.com/file/d/1E6JZrVNb9eSZCAzAEFtO44qGqfslUwEp/view?usp=sharing)
