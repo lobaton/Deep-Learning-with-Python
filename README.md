@@ -1,6 +1,7 @@
 # Deep Learning with Python
 
 
+
 ## Course Summary
 
 In the past few years, deep learning (DL) has emerged as a powerful AI method that has found applications in areas such as object recognition, image segmentation, video analysis, and natural language processing. This course will discuss where and how deep learning is used and how to get people to use it. The approach will minimize the math and concentrate instead on the underlying ideas and principles. We will concentrate on Tensorflow/Keras as the underlying computational platforms and use Python to create the DL codes. Much of the course will be driven by a number of hands-on exercises that will help you build simple networks in Keras/Tensorflow. These exercises will cover analysis of tabular data, images, videos, and text. At the end of the course you will have a basic understanding of DL, Tensorflow/Keras as a DL platform, and example applications. 
